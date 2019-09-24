@@ -5,7 +5,7 @@
 			<div class="uk-container uk-container-expand">
 				<nav class="uk-navbar" id="navbar" data-uk-navbar>
 					<div class="uk-navbar-center">
-						Abel<a class="uk-navbar-item uk-logo" href="/"><img src="./assets/logo.png" width="25" alt="Logo"></img></a>Linares
+						Abel<a class="uk-navbar-item uk-logo" href="/"><img src="./assets/logo.png" width="25" alt="Logo"/></a>Linares
 					</div>
 
 					<div class="uk-navbar-right">
@@ -156,7 +156,7 @@ export default {
   created() {
     axios.get(api)
     .then(response => {
-      //this.info = response.data
+      this.info = response.data
     })
     .catch(e => {
       console.log(e)
