@@ -144,7 +144,7 @@
 
 import axios from 'axios'
 
-const api = 'https://api.openweathermap.org/data/2.5/find?appid=f430d0d923c5a4237c166afa60325af4&q=92394&units=imperial';
+const api = '';
 
 export default {
   name: 'app',
@@ -156,7 +156,7 @@ export default {
   created() {
     axios.get(api)
     .then(response => {
-      this.info = response.data.message
+      //this.info = response.data
     })
     .catch(e => {
       console.log(e)
