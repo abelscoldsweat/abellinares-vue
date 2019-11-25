@@ -10,7 +10,7 @@
 
 					<div class="uk-navbar-right">
 						<div class="uk-navbar-item">
-							<a href="Abel Linares Web Developer Resume.pdf" class="uk-button uk-button-secondary uk-visible@m">RESUME</a>
+							<a href="../public/index.html" class="uk-button uk-button-secondary uk-visible@m">RESUME</a>
 						</div>
 					</div>
 				</nav>
@@ -102,7 +102,7 @@
 								</ul>
 							</div>
 							<div class="uk-card-footer">
-								<a href="http://cbdeeper-node.herokuapp.com" class="uk-button uk-button-primary uk-width-1-1">Visit Now</a>
+								<a href="http://cbdeeper.com" class="uk-button uk-button-primary uk-width-1-1">Visit Now</a>
 							</div>
 						</div>
 					</div>
