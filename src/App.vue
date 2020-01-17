@@ -43,8 +43,8 @@
 								</div>
 								<div class="uk-text-small uk-text-center uk-text-muted">Made With</div>
 								<ul>
-									<li>Node.js</li>
-									<li>Shopify</li>
+									<li>Vue</li>
+									<li>Prismic CMS</li>
 									<li>UIKit 3</li>
 								</ul>
 							</div>
@@ -70,12 +70,37 @@
 								<div class="uk-text-small uk-text-center uk-text-muted">Made With</div>
 								<ul>
 									<li>Vue</li>
-									<li>Heroku</li>
+									<li>Prismic CMS</li>
 									<li>UIKit 3</li>
 								</ul>
 							</div>
 							<div class="uk-card-footer">
 								<a href="http://darkestdawnrecords.com" class="uk-button uk-button-primary uk-width-1-1">Visit Now</a>
+							</div>
+						</div>
+					</div>
+					<!-- /price -->
+					<!-- price -->
+					<div>
+						<div class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-column">
+							<div class="uk-card-header uk-text-center">
+								<h4 class="uk-text-bold">Bright Path Center</h4>
+							</div>
+							<div class="uk-card-body uk-flex-1">
+								<div class="uk-flex uk-flex-middle uk-flex-center">
+									<span style="font-size: 4rem; font-weight: 200; line-height: 1em">
+										<span style="font-size: 0.5em">Los Angeles Based Homeless Center</span>
+									</span>
+								</div>
+								<div class="uk-text-small uk-text-center uk-text-muted">Made With</div>
+								<ul>
+									<li>Vue</li>
+									<li>Prismic CMS</li>
+									<li>UIKit 3</li>
+								</ul>
+							</div>
+							<div class="uk-card-footer">
+								<a href="http://www.brightpathcenter.org" class="uk-button uk-button-primary uk-width-1-1">Visit Now</a>
 							</div>
 						</div>
 					</div>
@@ -94,10 +119,8 @@
 								</div>
 								<div class="uk-text-small uk-text-center uk-text-muted">Made With</div>
 								<ul>
-									<li>Node.js</li>
-									<li>Nest.js</li>
-									<li>Angular</li>
-									<li>Snipcart</li>
+									<li>Vue</li>
+									<li>Prismic CMS</li>
 									<li>UIKit 3</li>
 								</ul>
 							</div>
