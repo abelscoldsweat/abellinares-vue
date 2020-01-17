@@ -89,7 +89,7 @@
 							<div class="uk-card-body uk-flex-1">
 								<div class="uk-flex uk-flex-middle uk-flex-center">
 									<span style="font-size: 4rem; font-weight: 200; line-height: 1em">
-										<span style="font-size: 0.5em">Los Angeles Based Homeless Center</span>
+										<span style="font-size: 0.5em">Non-profit Org.</span>
 									</span>
 								</div>
 								<div class="uk-text-small uk-text-center uk-text-muted">Made With</div>
